@@ -1,6 +1,7 @@
 # MCP Demo README
 
 This repository demonstrates how to interact with a local Model Context Protocol (MCP) server to fetch contextual data via structured tools.
+![Spring Boot MCP Server](docs/images/EXPOSE_API_MCP.png)
 
 ## Configuration
 
